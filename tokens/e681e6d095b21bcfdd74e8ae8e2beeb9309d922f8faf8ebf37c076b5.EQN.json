@@ -1,0 +1,10 @@
+{
+    "policyId": "e681e6d095b21bcfdd74e8ae8e2beeb9309d922f8faf8ebf37c076b5",
+    "name": "equoin", 
+    "symbol": "EQN", 
+    "website": "https://e-quainted.com", 
+    "description": "e-quainted is a growing community of anonymous individuals, making connections via AI protocols.",
+    "totalSupply": 1000000000000000000,
+    "amounts": [1000, 10000, 100000, 1000000],
+    "decimalPlaces": 0
+}
